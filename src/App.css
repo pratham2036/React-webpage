@@ -1,0 +1,15 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+  background-color: aliceblue;
+  }
+  .App{
+    padding:20px;
+    text-align: center;
+  }
+  .title{
+    margin-bottom: 20px;
+  }
+  
+  
